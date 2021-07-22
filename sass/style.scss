@@ -1,0 +1,26 @@
+.carousel-inner {
+    height: 100vh;
+
+}
+
+  .carousel-item {
+    height: 100vh;
+    position: relative;
+
+    .carousel-caption {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+
+        h3 {
+        font-size: 50px;
+        }
+    }
+
+    img {
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
