@@ -2,7 +2,7 @@
 "MILOLOVE" is a simple homepage view created using the Bootstrap library. The entire project is based on Flexbox and Media Queries, with a strong emphasis on RWD (Responsive Web Design) principles, to ensure the site is maximally flexible and adapted to the needs of users.
 
 ## 🙋🏼‍♀️ **Live demo:**
-[See project https://ollawilk.github.io/3_clothes_shop_bootstrap/](https://ollawilk.github.io/bootstrap-home-page-shop/)
+[https://ollawilk.github.io/bootstrap-home-page-shop/](https://ollawilk.github.io/bootstrap-home-page-shop/)
 
 ## Screenshots
 ![Screenshot](images/screenshot.png)
